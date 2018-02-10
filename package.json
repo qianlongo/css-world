@@ -1,0 +1,27 @@
+{
+  "name": "css-world",
+  "version": "1.0.0",
+  "description": "《css世界》读书笔记",
+  "main": "gulpfile.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "dev": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianlongo/css-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qianlongo/css-world/issues"
+  },
+  "homepage": "https://github.com/qianlongo/css-world#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1"
+  }
+}
